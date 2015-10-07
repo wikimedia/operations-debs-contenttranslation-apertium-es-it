@@ -1,0 +1,7 @@
+apertium-es-it (0.1.0~r51165-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No tarball release, so taking directly from svn
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 07 Oct 2015 20:06:52 +0530
