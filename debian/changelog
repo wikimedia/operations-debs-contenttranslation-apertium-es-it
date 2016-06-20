@@ -1,3 +1,10 @@
+apertium-es-it (0.1.0~r51165-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * Updated dependencies and debian/rules file.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 20 Jun 2016 15:53:10 +0530
+
 apertium-es-it (0.1.0~r51165-1) trusty; urgency=low
 
   [ Tino Didriksen ]
